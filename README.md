@@ -14,6 +14,7 @@ I like understanding how systems work from the inside: processes, networks, memo
 
 | Project | What it is |
 |---|---|
+| [ruben-prod-studio-crm](https://github.com/shirelazeroual/ruben-prod-studio-crm) | Studio CRM used daily by a photography & videography company (220+ client files) |
 | [linux-shell](https://github.com/shirelazeroual/linux-shell) | A bash-like shell in C: fork/exec, pipes, output redirection |
 | [multi-client-chat](https://github.com/shirelazeroual/multi-client-chat) | TCP chat server in C++ with a thread per client and mutexes |
 | [cybersecurity-coursework](https://github.com/shirelazeroual/cybersecurity-coursework) | WannaCry analysis with the Cyber Kill Chain and MITRE ATT&CK |
