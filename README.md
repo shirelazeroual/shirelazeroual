@@ -27,4 +27,4 @@ French (native) · Hebrew (fluent) · English (professional)
 
 ## 📫 Contact
 
-shirelazeroual@gmail.com
+shirelazeroual@gmail.com · [LinkedIn](https://www.linkedin.com/in/shirel-azeroual-123)
